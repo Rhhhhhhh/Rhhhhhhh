@@ -1,4 +1,4 @@
-### Hi there 👋
+### 好家伙 这都能给你找到这里
 
 <!--
 **Rhhhhhhh/Rhhhhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-21岁，是学生desu
-梦想是成为跨考东大网络空间安全研究生的电子信息本科生
-音游狗，搞通信和板子的，学到头啥也没学会
-私人垃圾桶：www.timetostudy.cn
+21岁，是学生desu  
+梦想是成为跨考东大网络空间安全研究生的电子信息本科生  
+音游狗，搞通信和板子的，学到头啥也没学会  
+~~想找个可爱的女朋友和我一起穿小裙子~~  
+私人垃圾桶：www.timetostudy.cn  
